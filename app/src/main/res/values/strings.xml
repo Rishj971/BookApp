@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Booklist</string>
+    <string name="book_title">Advanced Android Development</string>
+    <string name="book_discription">There are many Android programming guides that give you the basics.</string>
+    <string name="no_intern">No internet, Please check your internet !</string>
+    <string name="google_it">Enter a book name and click on SEARCH button</string>
+    <string name="Button_text">Search</string>
+</resources>
